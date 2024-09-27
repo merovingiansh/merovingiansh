@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on WWW
 - 📫 How to reach me ... GOOGLE
 - ⚡ Fun fact: Quando algo interessante deixarei público aqui.
+- Diga-me..
 
 <!---
 merovingiansh/merovingiansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
